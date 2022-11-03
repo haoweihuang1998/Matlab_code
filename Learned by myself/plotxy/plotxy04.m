@@ -1,0 +1,2 @@
+y=peaks;
+plot(y);
